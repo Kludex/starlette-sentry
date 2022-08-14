@@ -1,0 +1,5 @@
+sentry-sdk==1.9.4
+starlette==0.20.4
+uvicorn==0.18.2
+websockets
+watchfiles
